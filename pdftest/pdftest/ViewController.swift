@@ -47,7 +47,7 @@ class ViewController: UIViewController {
             }, failed: {
                 print("Download failed")
             }, canceled: {
-                print("Download canceled")
+                print("Download canceled fff")
             })
         },failed: {
             print("Get Request failed")
